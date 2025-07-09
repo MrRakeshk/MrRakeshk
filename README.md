@@ -1,14 +1,17 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Rakesh K</h1>
-<h3 align="center">A 💻 Aspiring Software Developer Developer from India 🇮🇳</h3>
+<h3 align="center">MERN Stack Developer | Java Problem Solver | Aspiring Software Developer</h3>
 
-<p align="center">
-  🔭 I’m currently working on <b>Easy Visa</b> and <b>Career Connect</b> using the MERN Stack!
-</p>
-- 🌱 I’m currently learning **Cloud Computing & DevOps**
-- 👯 I’m looking to collaborate on **Java-based backends and full-stack web applications**
-- 💬 Ask me about **Java, JavaScript, React, MongoDB, Node.js**
 ---
+
+I'm a passionate and self-driven developer who loves building impactful applications and continuously exploring new technologies.
+
+- 🔭 I’m currently working on **MERN stack projects** like **Easy Visa**, **Career Connect**, and **AutoRevive**
+- 🌱 I’m learning **Data Structures & Algorithms with Java** and **Software Testing**
+- 👨‍💻 I specialize in **Java**, and I'm skilled in solving algorithmic problems and backend development
+- 🚀 I’ve built full-stack apps using the **MERN stack** and deployed them live
+- 🤖 I’m highly interested in **Generative AI** and its real-world applications
+- 💡 I'm an **aspiring software developer** excited to innovate and grow in the tech world
+- 💬 Ask me about **Java, DSA, React, Node.js, MongoDB, REST APIs**
 
 ## 🛠️ Tech Stack
 
